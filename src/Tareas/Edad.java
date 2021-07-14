@@ -14,5 +14,9 @@ public class Edad {
 
         System.out.print("Welcome my friend your age is : " + resultado + " years");
 
+        // prueba de codigo modificado
+
+        System.out.println("\nTEXTO AGREGAFO 11:14PM");
+
     }
 }
