@@ -12,4 +12,5 @@ public class Edad {
         anoResultado = (anoActual - ano);
         System.out.print("Welcome my friend your age is : " + anoResultado + " years ");
     }
+
 }
